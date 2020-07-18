@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
         ss.dependency 'MBProgressHUD', '~> 1'
         ss.dependency 'AFNetworking/Reachability', '~> 3'
         ss.dependency 'MJRefresh', '~> 3'
-        ss.dependency 'SDWebImage/Core', '~> 4'
+        ss.dependency 'SDWebImage/Core', '~> 5'
     end
 
     s.subspec 'Doc' do |ss|
